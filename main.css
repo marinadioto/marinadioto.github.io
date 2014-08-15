@@ -1,0 +1,18 @@
+body{
+	background-color: #CAE1FF;
+	margin: 25px;
+	font-style: tahoma;
+}
+aside{
+	position: fixed;
+	text-align: center;
+}
+p {
+	color: #00BFFF;
+	font: normal 14px Georgia, serif;
+	border: 2px solid #FFFFE0;
+}
+img{
+	width: 200px;
+	padding: 5%;
+}
